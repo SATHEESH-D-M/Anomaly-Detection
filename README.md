@@ -1,6 +1,8 @@
-# CountAI - Interview Assessment Task 
+This repository addresses an **anomaly detection problem**, which is **modeled as a multi-class classification task**.  
+The approach taken is **transfer learning with fine-tuning** of deep neural networks.  
+Since the dataset is very small (only **62 images**), a **data augmentation pipeline** was designed to expand the dataset and enable robust training.
 
-This README.md file will summarize all the files in this submission folder and will be a starting point to go through my solution.
+---
 
 ### Report 
 - refer to ```./report.pdf```
@@ -81,6 +83,3 @@ both has almost similar file organization.
     ├── train_validate.py
     └── transfer_learning.py
 ```
-
-
-
