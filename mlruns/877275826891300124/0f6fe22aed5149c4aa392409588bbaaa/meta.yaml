@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/877275826891300124/0f6fe22aed5149c4aa392409588bbaaa/artifacts
+end_time: 1755629988740
+entry_point_name: ''
+experiment_id: '877275826891300124'
+lifecycle_stage: active
+run_id: 0f6fe22aed5149c4aa392409588bbaaa
+run_name: delightful-fox-286
+run_uuid: 0f6fe22aed5149c4aa392409588bbaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755622838382
+status: 3
+tags: []
+user_id: abcom

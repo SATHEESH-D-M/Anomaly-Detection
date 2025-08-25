@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/705748028261579817/550cbc42fdd04369af3a46fdec5c6fd8/artifacts
+end_time: 1755636897813
+entry_point_name: ''
+experiment_id: '705748028261579817'
+lifecycle_stage: active
+run_id: 550cbc42fdd04369af3a46fdec5c6fd8
+run_name: flawless-elk-258
+run_uuid: 550cbc42fdd04369af3a46fdec5c6fd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755630834785
+status: 3
+tags: []
+user_id: abcom

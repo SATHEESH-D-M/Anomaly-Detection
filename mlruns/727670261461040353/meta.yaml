@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/727670261461040353
+creation_time: 1755598535738
+experiment_id: '727670261461040353'
+last_update_time: 1755598535738
+lifecycle_stage: active
+name: post_baseline_ResNet

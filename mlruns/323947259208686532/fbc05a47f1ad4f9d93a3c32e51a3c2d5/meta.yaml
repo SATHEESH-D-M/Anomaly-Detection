@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323947259208686532/fbc05a47f1ad4f9d93a3c32e51a3c2d5/artifacts
+end_time: 1755636931520
+entry_point_name: ''
+experiment_id: '323947259208686532'
+lifecycle_stage: active
+run_id: fbc05a47f1ad4f9d93a3c32e51a3c2d5
+run_name: abundant-smelt-839
+run_uuid: fbc05a47f1ad4f9d93a3c32e51a3c2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755622799884
+status: 3
+tags: []
+user_id: satheeshdm

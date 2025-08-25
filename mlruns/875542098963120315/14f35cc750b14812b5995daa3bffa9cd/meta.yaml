@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/875542098963120315/14f35cc750b14812b5995daa3bffa9cd/artifacts
+end_time: 1755537824779
+entry_point_name: ''
+experiment_id: '875542098963120315'
+lifecycle_stage: active
+run_id: 14f35cc750b14812b5995daa3bffa9cd
+run_name: useful-hen-901
+run_uuid: 14f35cc750b14812b5995daa3bffa9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755524107222
+status: 3
+tags: []
+user_id: abcom

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284082469931178721/e39dfa0d828743f38ac8fd0f755d35d8/artifacts
+deleted_time: 1755506198504
+end_time: 1755505749289
+entry_point_name: ''
+experiment_id: '284082469931178721'
+lifecycle_stage: deleted
+run_id: e39dfa0d828743f38ac8fd0f755d35d8
+run_name: skillful-trout-653
+run_uuid: e39dfa0d828743f38ac8fd0f755d35d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755505748598
+status: 4
+tags: []
+user_id: abcom

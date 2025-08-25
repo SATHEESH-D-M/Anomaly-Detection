@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/814742337354929189
+creation_time: 1755637564525
+experiment_id: '814742337354929189'
+last_update_time: 1755637564525
+lifecycle_stage: active
+name: post_baseline_Mobilenet

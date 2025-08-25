@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/124381673471549085/f427316d6c5848998d0503c62ff4ba5a/artifacts
+end_time: 1755474911893
+entry_point_name: ''
+experiment_id: '124381673471549085'
+lifecycle_stage: active
+run_id: f427316d6c5848998d0503c62ff4ba5a
+run_name: ambitious-cub-66
+run_uuid: f427316d6c5848998d0503c62ff4ba5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755458500657
+status: 3
+tags: []
+user_id: satheeshdm

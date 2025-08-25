@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/875542098963120315
+creation_time: 1755506143640
+experiment_id: '875542098963120315'
+last_update_time: 1755506143640
+lifecycle_stage: active
+name: baseline_ShuffleNet

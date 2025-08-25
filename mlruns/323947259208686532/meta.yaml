@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/323947259208686532
+creation_time: 1755622694272
+experiment_id: '323947259208686532'
+last_update_time: 1755622694272
+lifecycle_stage: active
+name: post_baseline_EfficientNet

@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/284082469931178721
+creation_time: 1755505588936
+experiment_id: '284082469931178721'
+last_update_time: 1755506198504
+lifecycle_stage: deleted
+name: Swin-Transformer-WITH-HEAD
+tags: {}

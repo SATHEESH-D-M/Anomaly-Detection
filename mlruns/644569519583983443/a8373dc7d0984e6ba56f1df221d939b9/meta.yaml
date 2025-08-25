@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/644569519583983443/a8373dc7d0984e6ba56f1df221d939b9/artifacts
+end_time: 1755497536646
+entry_point_name: ''
+experiment_id: '644569519583983443'
+lifecycle_stage: active
+run_id: a8373dc7d0984e6ba56f1df221d939b9
+run_name: mysterious-fish-216
+run_uuid: a8373dc7d0984e6ba56f1df221d939b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755475266639
+status: 3
+tags: []
+user_id: satheeshdm

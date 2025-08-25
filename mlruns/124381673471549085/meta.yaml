@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/124381673471549085
+creation_time: 1755458371749
+experiment_id: '124381673471549085'
+last_update_time: 1755458371749
+lifecycle_stage: active
+name: baseline_SqueezeNet

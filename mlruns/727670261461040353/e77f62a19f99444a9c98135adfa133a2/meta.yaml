@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/727670261461040353/e77f62a19f99444a9c98135adfa133a2/artifacts
+end_time: 1755623498384
+entry_point_name: ''
+experiment_id: '727670261461040353'
+lifecycle_stage: active
+run_id: e77f62a19f99444a9c98135adfa133a2
+run_name: delicate-ray-801
+run_uuid: e77f62a19f99444a9c98135adfa133a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755613420783
+status: 3
+tags: []
+user_id: abcom

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1756022035804
+current_stage: None
+description: ''
+last_updated_timestamp: 1756022035804
+name: Resnet_final_submission
+run_id: e77f62a19f99444a9c98135adfa133a2
+run_link: ''
+source: mlflow-artifacts:/727670261461040353/e77f62a19f99444a9c98135adfa133a2/artifacts/best_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/727670261461040353/e77f62a19f99444a9c98135adfa133a2/artifacts/best_model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284082469931178721/13d2e0f16032433081b79328cb42d729/artifacts
+deleted_time: 1755506198504
+end_time: 1755505990376
+entry_point_name: ''
+experiment_id: '284082469931178721'
+lifecycle_stage: deleted
+run_id: 13d2e0f16032433081b79328cb42d729
+run_name: redolent-bird-914
+run_uuid: 13d2e0f16032433081b79328cb42d729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755505990129
+status: 4
+tags: []
+user_id: abcom

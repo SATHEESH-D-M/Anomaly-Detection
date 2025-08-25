@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/814742337354929189/718fa26e945b4a09b1ef2b3cf24c0516/artifacts
+end_time: 1755644250503
+entry_point_name: ''
+experiment_id: '814742337354929189'
+lifecycle_stage: active
+run_id: 718fa26e945b4a09b1ef2b3cf24c0516
+run_name: bouncy-sloth-423
+run_uuid: 718fa26e945b4a09b1ef2b3cf24c0516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755637568585
+status: 3
+tags: []
+user_id: abcom

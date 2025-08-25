@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284082469931178721/f1ca96e934c0479895bdee75d35d6749/artifacts
+deleted_time: 1755506198504
+end_time: 1755505628042
+entry_point_name: ''
+experiment_id: '284082469931178721'
+lifecycle_stage: deleted
+run_id: f1ca96e934c0479895bdee75d35d6749
+run_name: bright-gnu-267
+run_uuid: f1ca96e934c0479895bdee75d35d6749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755505625313
+status: 4
+tags: []
+user_id: abcom
